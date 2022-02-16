@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @deadjar
-- 👀 I’m interested in dota2
+- 👀 I’m interested in learning
 - 🌱 I’m currently learning programming and web develoment
-- 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me on facebook: Jeff Sarra
 
 <!---
