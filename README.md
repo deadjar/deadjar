@@ -1,3 +1,3 @@
-#deadjar
+deadjar
 
 still learning 
