@@ -1,3 +1,3 @@
-#DEADJAR THE K.I.D
+#deadjar
 
 still learning 
